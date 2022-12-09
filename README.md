@@ -13,8 +13,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-• [Description](https://github.com/deenazati08/Text-Classification/edit/main/README.md#description)
-• [Result](https://github.com/deenazati08/Text-Classification/edit/main/README.md#result)
+
+[Description](https://github.com/deenazati08/Text-Classification/edit/main/README.md#description) // [Result](https://github.com/deenazati08/Text-Classification/edit/main/README.md#result) // [Credits](https://github.com/deenazati08/Text-Classification/edit/main/README.md#credits)
 
 
 ## Description
