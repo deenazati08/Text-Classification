@@ -14,7 +14,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-[Description](https://github.com/deenazati08/Text-Classification/edit/main/README.md#description) // [Result](https://github.com/deenazati08/Text-Classification/edit/main/README.md#result) // [Credits](https://github.com/deenazati08/Text-Classification/edit/main/README.md#credits)
+[Description](https://github.com/deenazati08/Text-Classification#description) // [Result](https://github.com/deenazati08/Text-Classification#result) // [Credits](https://github.com/deenazati08/Text-Classification#credits)
 
 
 ## Description
